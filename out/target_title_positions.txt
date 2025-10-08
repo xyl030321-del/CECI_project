@@ -1,0 +1,18 @@
+   一( 1)  start=6  span=1  | 契約文件及效力
+   二( 2)  start=34  span=1  | 履約標的
+   三( 3)  start=42  span=1  | 契約價金之給付
+   四( 4)  start=86  span=1  | 契約價金之調整
+   五( 5)  start=109  span=1  | 契約價金之給付條件
+   六( 6)  start=200  span=1  | 稅捐及規費
+   七( 7)  start=205  span=1  | 履約期限
+   八( 8)  start=241  span=1  | 履約管理
+   九( 9)  start=353  span=1  | 履約標的品管
+   十(10)  start=375  span=1  | 保險
+  十一(11)  start=409  span=1  | 保證金
+  十二(12)  start=427  span=1  | 驗收
+  十三(13)  start=462  span=1  | 遲延履約
+  十四(14)  start=498  span=1  | 權利及責任
+  十五(15)  start=547  span=1  | 契約變更及轉讓
+  十六(16)  start=565  span=1  | 契約終止解除及暫停執行
+  十七(17)  start=600  span=1  | 爭議處理
+  十八(18)  start=606  span=1  | 其他

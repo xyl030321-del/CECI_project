@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+explain_letters.sqlite
+exports/
+*.log
+.DS_Store
+Thumbs.db
+.vscode/

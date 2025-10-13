@@ -1,0 +1,16 @@
+
+# Virtualenvs
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local data we usually don't push
+*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/

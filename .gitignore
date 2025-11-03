@@ -14,3 +14,18 @@ __pycache__/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Ignore virtual environment
+.venv/
+
+# Ignore data outputs
+pcc_data/data/out_csv/*.csv
+pcc_data/data/out_csv/*.xlsx
+pcc_data/data/out_csv/*.json
+pcc_data/data/letters_txt/
+pcc_data/data/contracts/
+
+# Ignore other temporary files
+__pycache__/
+*.log
+*.tmp
